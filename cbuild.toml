@@ -1,0 +1,6 @@
+[package]
+name="glfw3"
+version="0.0.1"
+description="Windowing library"
+include="include"
+link="glfw3"
